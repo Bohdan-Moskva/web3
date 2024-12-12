@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html style="scroll-behavior: smooth">
+<head>
+    <meta http-equiv="content-type" content="text/html" charset="UTF-8">
+    <meta name="description" content="Лабораторна №3">
+    <meta name="author" content="Студент групи КН-31заоч, Москва Богдан">
+    <meta name="keywords" content="HTML, web, дизайн">
+    <title>Лабораторна №3</title>
+</head>
+<body>
+<div id="top"></div>
+<a href="#bottom">Опуститись</a>
+
+<ul>
+    <li type="square"></li>
+    <li type="square"></li>
+    <li type="circle"></li>
+    <li type="circle"></li>
+</ul>
+<ul>
+    <li type="disc"></li>
+    <li type="disc"></li>
+    <li type="square"></li>
+    <li type="square"></li>
+    <li type="square"></li>
+</ul>
+
+<ol type="I">
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+<ol type="1" start="31">
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+<ol type="i" reversed>
+    <li></li>
+    <li></li>
+    <li></li>
+</ol>
+
+<dl>
+    <dt> HTML
+    <dd> HyperText Markup Language
+
+    <dt> TCP
+    <dd> Transmission Control Protocol
+
+    <dt> ACID
+    <dd> Atomicity, Consistency, Isolation, Durability
+
+    <dt> DDL
+    <dd> Data Definition Language
+
+    <dt> GRASP
+    <dd> General Responsibility Assignment Software Patterns
+</dl>
+
+<a href="https://playboy.ua/">Click here ;)</a>
+<a href="lab1.html">DON'T click here !</a>
+<a href="#top">Взлетіти</a>
+<a href="mailto: roman.zhyvchyn.kn.2022@lpnu.ua"><img src="static/dog.jpg"></a>
+
+<div id="bottom"></div>
+</body>
+</html>
